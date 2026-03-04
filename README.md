@@ -116,7 +116,7 @@ An end-to-end analytics project covering the full data engineering + ML lifecycl
 
 | Qualification | Institution | Score |
 |---|---|---|
-| 🎓 B.Tech CSE (2022–2026) | Satya Institute of Technology and Management | CGPA: 7.5 |
+| 🎓 B.Tech CSE (2022–2027) | Satya Institute of Technology and Management | CGPA: 7.5 |
 | 📘 Intermediate (+2) | Vidwan Junior College, Bobbili | 63.3% |
 | ⭐ 10th Standard (SSC) | Abhyudaya High School, Bobbili | **98%** |
 
